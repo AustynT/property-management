@@ -1,5 +1,11 @@
+// BASE
 @import 'variables';
 @import 'base';
-@import 'header-wrapper';
+@import 'header';
+
+// Auth
 @import 'signin';
 @import 'signup';
+
+// Helpers
+@import 'form-styles';
